@@ -1,6 +1,6 @@
 # NewsApp
 
-I used NewsAPI, Retrofit2, Picasso, MaterialDesign for this app.
+**I used NewsAPI, Retrofit2, Picasso, MaterialDesign for this app.**
 
 **SCREENSHOTS**
 
